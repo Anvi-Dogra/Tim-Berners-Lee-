@@ -109,5 +109,9 @@ display: inline;
 text-align: center;
 font-size: 25px;
 margin: 50px;
-background-color: deeppink;
+background-color: azure
+}
+
+#work,#writings,#video {
+text-align: center
 }
